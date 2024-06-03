@@ -1,2 +1,2 @@
 # uiFry
-<img src="landingpage.png">
+<img src="Frame.png">
